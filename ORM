@@ -1,0 +1,32 @@
+Var Sequelize = require(‘sequelize’);
+Var db = new Sequelize(‘chatter’, ‘root’, ‘’);
+
+Var User = db.define(‘User’, {
+Username: Sequelize.STRING
+});
+
+//엔티티를 기술하는 코드
+Var Message = db.define(‘Message’, {
+Userid: Sequelize.INTEGER,//필드 생성
+Text: Sequelize.STRING,
+roomname: Sequelize.STRING
+});
+//id(primary key), created_at, updated_at 은 자동으로 생성해줌
+
+//위의 객체지향적인 코드와 db를 일치 시켜줌 (코드와 스키마를 일치시켜준다)
+User.sync()
+.then(function() {
+Return User.create({username: ‘Jean Valjean’});
+})
+.then(function(){
+Return User.findAll({ where: {username: ‘Jean Valjean’} });
+.then(function(users) }
+ users.forEach(function(user) {
+ console.log(user.username + ‘ exists’);
+});
+Db.close();
+})
+.catch(function(err) {
+console.error(err);
+Db.close();
+});
