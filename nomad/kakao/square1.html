@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>repl.it</title>
+    <style>
+      body {
+        background-color: tomato;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      #father {
+        background-color: wheat;
+        border: 2px solid black;
+        width: 250px;
+        height: 250px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: column;
+      }
+      .children {
+        background-color: teal;
+        height: 45px;
+      }
+      .one {
+        border: 3px solid white;
+        width: 45px;
+      }
+      .two {
+        border: 3px dashed white;
+        width: 215px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="father">
+      <div class="children one"></div>
+      <div class="children two"></div>
+      <div class="children one"></div>
+    </div>
+  </body>
+</html>
