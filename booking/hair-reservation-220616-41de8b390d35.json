@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hair-reservation-220616",
+  "private_key_id": "41de8b390d3534d14640ebbbd1e6e1a955cbecd8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKiJH7/xYhex4j\n8Fdi6gc5FZ+1rD5z6mCEY7CfkvuzdES4Ozusi4B8QsKIjsQKNq2laX4oAaWMwBol\nKINC6i8dvxEapSYzdkODVjpn5cUhO2KUPN5k+CKdf7qTWPLNNTLC6PZQ45TiY8rF\nNuBIWQj+8s5LmABehz8IIuNZuzHKX/vhl0NSAO37PTwd3ha07D5TyGRVkF6XG6pz\nOH2LPs/6iPIVT6xeIgVKpNw38psmDpBVbg43DZGzXBP5BuXsExyTh0avBU8uo+MS\nFma18/+oVMbUqNWCa+QrHvGOq3srnJcbzlc5x2gRTPc22zpY8J/lhWYRVoeQRZbE\nT1PXa4gnAgMBAAECggEAXydr4ueVN7S20+66t7O5IgY5S2r5yo7+uqR1mns9ezHw\niVf28Nl3y6m36N2eWCgZTEI0bcpcQ7ULc5LFnL4W1dRrTkfyGzKAhKeR+DdY9wSG\nC5xPZkO4S6Pzff/Hz0ajqzQ1aYqK7BQzc5WVKRh/o/xilNx8q+zB3eo6Q3Gx8mBw\nYifq7EGz7h2bOxNIvHi1QSNQSX3pXWAz/xnY9CytrQN/uI8incAEgKlhMpHZ0EAT\nihDzguVqGaiYnyCCER4mgbbJU+lc4vCiaGnZvH9Dkvd4sLKJkOjxj5pf15v3P8cr\nCTUxTb/XMpiDWyHB+aNQ6pRFIJqsHmRr9XeC1AZVPQKBgQD4AbfUveB5Lh7j3yti\ngfyMEhWQye5nuN4bLG3MbYnrdiTq3RmyUhXQS8R+iEVwQfv6dN+Sq60sv2bSDliy\npIXvY1ErmM/Nf2M2EQDwEtvIawmphIZLF1EkhB/xkTSZnLNHh26jhTJCbMixd3tR\njgWhf88YJ3VX4f/hL+3CWlRD7QKBgQDRD6gM0GQ/xkJL++nob2941vWoLP55W6Gd\nTNZn+9Muxji2kRIUGLi+BoW5o1zVAPtvqNa0Ji4jjWzPWT8ZeJQtE8QPER1tEA4o\n36zOeFncQTAyIFjMHSd1DFObM2E3H1KDPLCYbDOhLjUQHpJnsreGHrtXUFvOodE1\nAkmYiwDh4wKBgH2bISe2IwI8wZhXZvm1K9slLZbvLreJgbPxhIqMz9VZOMlawbD2\nseWU+ie7jK+WO7BVkQYPvN108vZgHbwcZ1key/Vwp45EflLbucXdR0LyMyqP3BQb\n8xSzdho6mJFUM9h+VyKqSxIpVlvLT8G2VFO/D3wEQAIKjDXYuGo+pX7hAoGBALen\nLVW0a5yqqereLimGW0Koc719aT9rA5qPuXo3etmIQKIA5wTIguJMEIV3wUFNT5RT\nmek/8SBCSOgN2qShjGndB0rFGjiI9idp9wCaMTaP/arLR7ZnlhX48ilRBYHK/k1T\nrz73LpPVZ7/1W1/FW/tyW9jkOwJWnNYYYFalJe1JAoGAetXY0iPqBocMeg4qnKzy\nQXH6+rXki0P/n+GknwV+Rk9wqixuJz5MNSpjyKlLdj3WBtsqJejyQ+WY68Vd6yq1\n0qQSf1F4F1HNnLyF3XEDDI+3RomS/guCnoAbktGV7vGLqRQvaOJelyU6/Zf10ojs\n9HO9ab0rM2Vs0Cae7BlqVng=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lowehairadmin@hair-reservation-220616.iam.gserviceaccount.com",
+  "client_id": "109255332954972844235",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lowehairadmin%40hair-reservation-220616.iam.gserviceaccount.com"
+}
